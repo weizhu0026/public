@@ -1,0 +1,14 @@
+# mass unit: M_sun
+# radius unit: R_sun
+name,mass,mass_error,radius,radius_error,Method
+Procyon B,0.602,0.015,0.01234,0.00032,visual binary
+Sirius B,1.034,0.026,0.0084,0.00025,visual binary
+40 Eri B,0.501,0.011,0.0136,0.0002,visual binary
+Stein 2051B,0.66,0.04,0.011,0.001,visual binary
+CD-38 10980,0.74,0.04,0.01245,0.0004,gravitational redshift
+W485A,0.59,0.04,0.0150,0.001,gravitational redshift
+L268-92,0.70,0.12,0.0149,0.001,gravitational redshift
+L481-60,0.53,0.05,0.0120,0.004,gravitational redshift
+G154-B5B,0.46,0.08,0.013,0.002,gravitational redshift
+G181-B5B,0.50,0.05,0.011,0.001,gravitational redshift
+G156-64,0.59,0.06,0.0110,0.001,gravitational redshift
